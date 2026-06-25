@@ -1,0 +1,1 @@
+*.log\n*.pdf\n*.pyc\n__pycache__/\n.DS_Store
